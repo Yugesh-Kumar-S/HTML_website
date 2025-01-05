@@ -1,0 +1,25 @@
+body{
+    background-color: #CDC1FF;
+}
+
+h1{
+    outline-color: white;
+    outline-width: thick;
+    color: rebeccapurple;
+}
+
+h3{
+    color: #5D3FD3	 ;
+}
+
+hr{
+    color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 40%;
+}
+
+#profile{
+    border-radius: 50%;
+}
